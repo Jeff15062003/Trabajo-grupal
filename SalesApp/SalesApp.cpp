@@ -7,7 +7,7 @@ using namespace System::Collections::Generic;
 using namespace System::Windows::Forms;
 
 int main(array<System::String ^> ^args){
-    //Prueba 32
+    //Prueba 325
 
     Application::EnableVisualStyles();
     Application::SetCompatibleTextRenderingDefault(false);
