@@ -94,6 +94,7 @@ int main(array<System::String ^> ^args){
     }
 
     Console::WriteLine("El total de la venta es: " + sale1->TotalPrice);
+    PRUEBA GITHUB
     */
     return 0;
 }
